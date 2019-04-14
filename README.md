@@ -12,13 +12,12 @@ We provide free banner images for advertising the free edition “[Community Edi
 
 ## Banner
 
-* 255 x 90 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_255x090.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_255x090.png)
-* 310 x 110 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_310x110.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_310x110.png)
-* 340 x 120 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_340x120.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_340x120.png)
-* 395 x 140 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_395x140.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_395x140.png)
-* 480 x 170 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_480x170.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_480x170.png)
+* 250 x 90 px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_250x90.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_250x90.png)
+* 300 x 108 px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_300x108.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_300x108.png)
+* 350 x 126 px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_350x126.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_350x126.png)
+* 400 x 144 px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_400x144.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_400x144.png)
+
