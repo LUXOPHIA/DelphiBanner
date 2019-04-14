@@ -1,5 +1,5 @@
 # FreeDelphi
-We provide free banner images for advertising the free edition “[Community Edition](https://www.embarcadero.com/products/delphi/starter)” of IDE “[Delphi](https://www.embarcadero.com/products/delphi).”
+We will provide free banner images for promoting the free edition “[Community](https://www.embarcadero.com/products/delphi/starter)” of IDE “[Delphi](https://www.embarcadero.com/products/delphi).”
 
 ----
 
