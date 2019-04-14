@@ -1,5 +1,5 @@
 # FreeDelphi
-Banner for advertising the free edition of IDE “[Delphi](https://www.embarcadero.com/products/delphi).”
+Free Banner for advertising the free edition “[Community Edition](https://www.embarcadero.com/products/delphi/starter)” of IDE “[Delphi](https://www.embarcadero.com/products/delphi).”
 
 ----
 
