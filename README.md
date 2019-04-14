@@ -12,6 +12,8 @@ We will provide free banner images for promoting the free edition “[Community]
 ----
 
 ## Banner
+以下のような URL を用いれば、リボジトリ内のファイルを直接参照することができます。
+> `https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_***x***.png`
 
 * 250 x 90 px  
 [![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_250x90.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_250x90.png)
