@@ -4,7 +4,7 @@ We will provide free banner images for promoting the free edition “[Community]
 
 ----
 
-## Link URL
+## URL for Community Edition
 
 * English：https://www.embarcadero.com/products/delphi/starter
 * 日本語：https://www.embarcadero.com/jp/products/delphi/starter
