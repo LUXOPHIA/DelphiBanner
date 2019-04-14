@@ -20,4 +20,8 @@ We will provide free banner images for promoting the free edition “[Community]
 [![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_350x126.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_350x126.png)
 * 400 x 144 px  
 [![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_400x144.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_400x144.png)
+* 450 x 162 px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_450x162.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_450x162.png)
+* 500 x 180 px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_500x180.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_500x180.png)
 
