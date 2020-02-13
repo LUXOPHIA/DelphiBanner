@@ -13,18 +13,20 @@ We will provide free banner images for promoting the free edition “[Community]
 
 ## Banner
 以下のような URL を用いれば、リボジトリ内のファイルを直接参照することができます。
-> `https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_***x***.png`
+> `https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_***px.png`
 
-* 250 x 90 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_250x90.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_250x90.png)
-* 300 x 108 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_300x108.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_300x108.png)
-* 350 x 126 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_350x126.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_350x126.png)
-* 400 x 144 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_400x144.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_400x144.png)
-* 450 x 162 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_450x162.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_450x162.png)
-* 500 x 180 px  
-[![](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_500x180.png)](https://github.com/delphiusers/FreeDelphi/raw/master/Banner/FreeDelphi-Banner_500x180.png)
+* Width: 200px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_200px.png)](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_200px.png)
+* Width: 250px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_250px.png)](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_250px.png)
+* Width: 300px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_300px.png)](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_300px.png)
+* Width: 350px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_350px.png)](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_350px.png)
+* Width: 400px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_400px.png)](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_400px.png)
+* Width: 450px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_450px.png)](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_450px.png)
+* Width: 500px  
+[![](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_500px.png)](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_500px.png)
 
