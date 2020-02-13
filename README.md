@@ -1,5 +1,5 @@
 # FreeDelphi
-We will provide free banner images for promoting the free edition “[Community](https://www.embarcadero.com/products/delphi/starter)” of [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) “[Delphi](https://www.embarcadero.com/products/delphi).” Please feel free to use it.  
+We will provide free banner images for promoting the free edition “[Community Edition](https://www.embarcadero.com/products/delphi/starter)” of [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) “[Delphi](https://www.embarcadero.com/products/delphi).” Please feel free to use it.  
 [統合開発環境](https://ja.wikipedia.org/wiki/%E7%B5%B1%E5%90%88%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83)「[Delphi](https://www.embarcadero.com/jp/products/delphi)」の無料版「[Community Edition](https://www.embarcadero.com/jp/products/delphi/starter/)」を宣伝するためのバナー画像を無償提供させて頂きます。ご自由にご利用下さい。
 
 ----
