@@ -40,4 +40,8 @@ If you want to always show the design at a particular point in time, specify a f
 [![](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_450px.png)](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_450px.png)
 * Width: 500px  
 [![](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_500px.png)](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_500px.png)
+* [Width: 1,000px](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_1000px.png)
+* [Width: 2,000px](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_2000px.png)
+* [Width: 4,000px](https://github.com/delphiusers/FreeDelphi/raw/master/FreeDelphi_2000px.png)
+
 
