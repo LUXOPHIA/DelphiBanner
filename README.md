@@ -21,7 +21,7 @@ If you want to always display the latest design, refer to the files in the `mast
 
 If you want to always show the design at a particular point in time, specify a file in a particular branch as follows. In this case, the file path does not change forever.  
 特定の時点でのデザインを常に表示したい場合は、以下のように特定のプランチのファイルを指定して下さい。この場合、ファイルパスは永遠に変更されません。
-> https://github.com/delphiusers/FreeDelphi/raw/2020.02.14/FreeDelphi_***px.png
+> `https://github.com/delphiusers/FreeDelphi/raw/2020.02.14/FreeDelphi_***px.png`
 
 **\* The URL changed on February 14, 2020. We apologize to those who were referred directly.  
 ※ 2020/02/14 に URL が変わりました。直接参照されていた方々にはご迷惑をおかけします。**
